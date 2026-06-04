@@ -3,5 +3,6 @@
 /.venv
 
 Cargo.lock
+rust-toolchain.toml
 
 /.claude
