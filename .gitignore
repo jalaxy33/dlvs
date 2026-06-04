@@ -1,0 +1,7 @@
+/target
+/output
+/.venv
+
+Cargo.lock
+
+/.claude
