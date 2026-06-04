@@ -1,3 +1,0 @@
-[env]
-LIBTORCH = "/opt/libtorch"
-LIBTORCH_BYPASS_VERSION_CHECK = "1"
