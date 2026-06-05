@@ -2,7 +2,7 @@
 
 # imports
 imports_indent = "Visual"
-imports_granularity = "Module"
+imports_granularity = "Crate"
 group_imports = "StdExternalCrate"
 
 # comment
