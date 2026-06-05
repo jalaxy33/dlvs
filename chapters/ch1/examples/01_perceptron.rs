@@ -1,5 +1,4 @@
-use std::f64;
-use std::path::Path;
+use std::{f64, path::Path};
 
 use plotters::prelude::*;
 use rand::RngExt;

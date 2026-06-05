@@ -2,8 +2,8 @@ use std::path::Path;
 
 use plotters::prelude::*;
 use rand::RngExt;
-use tch::nn::{ModuleT, OptimizerConfig};
-use tch::{Device, Kind, Tensor, nn};
+use tch::{Device, Kind, Tensor, nn,
+          nn::{ModuleT, OptimizerConfig}};
 
 // Generate 2D synthetic datasets with circular pattern
 fn generate_data(n_samples: usize) -> (Tensor, Tensor) {
